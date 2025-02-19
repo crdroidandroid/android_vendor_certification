@@ -5,16 +5,16 @@
     <string-array name="config_certifiedBuildProperties" translatable="false">
         <item>MANUFACTURER:Google</item>
         <item>MODEL:Pixel 9</item>
-        <item>FINGERPRINT:google/tokay_beta/tokay:Baklava/BP22.250103.008/12932282:user/release-keys</item>
+        <item>FINGERPRINT:google/tokay_beta/tokay:Baklava/BP22.250124.009/13034193:user/release-keys</item>
         <item>BRAND:google</item>
         <item>PRODUCT:tokay_beta</item>
         <item>DEVICE:tokay</item>
         <item>VERSION.RELEASE:Baklava</item>
-        <item>ID:BP22.250103.008</item>
-        <item>VERSION.INCREMENTAL:12932282</item>
+        <item>ID:BP22.250124.009</item>
+        <item>VERSION.INCREMENTAL:13034193</item>
         <item>TYPE:user</item>  
         <item>TAGS:release-keys</item>
-        <item>VERSION.SECURITY_PATCH:2025-01-05</item>
+        <item>VERSION.SECURITY_PATCH:2025-02-05</item>
         <item>VERSION.DEVICE_INITIAL_SDK_INT:21</item>
     </string-array>
 </resources>

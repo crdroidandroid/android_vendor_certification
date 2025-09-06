@@ -5,13 +5,13 @@
     <string-array name="config_certifiedBuildProperties" translatable="false">
         <item>MANUFACTURER:Google</item>
         <item>MODEL:Pixel 7a</item>
-        <item>FINGERPRINT:google/lynx_beta/lynx:16/BP31.250610.004/13769805:user/release-keys</item>
+        <item>FINGERPRINT:google/lynx_beta/lynx:16/BP31.250610.009/13905196:user/release-keys</item>
         <item>BRAND:google</item>
         <item>PRODUCT:lynx_beta</item>
         <item>DEVICE:lynx</item>
         <item>VERSION.RELEASE:16</item>
-        <item>ID:BP31.250610.004</item>
-        <item>VERSION.INCREMENTAL:13769805</item>
+        <item>ID:BP31.250610.009</item>
+        <item>VERSION.INCREMENTAL:13905196</item>
         <item>TYPE:user</item>  
         <item>TAGS:release-keys</item>
         <item>VERSION.SECURITY_PATCH:2025-07-05</item>
